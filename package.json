@@ -1,0 +1,23 @@
+{
+  "name": "@red-cup-engineering/notebooklm-source-readiness-observation-service",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Observes one exact NotebookLM source until its provider state settles ready, error, or absent.",
+  "keywords": [
+    "notebooklm",
+    "source-readiness",
+    "capability-cell",
+    "a2a",
+    "rmn"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/notebooklm-source-readiness-observation-service.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
